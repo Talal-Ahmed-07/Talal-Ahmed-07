@@ -1,3 +1,4 @@
+![logo](https://github.com/Talal-Ahmed-07/Talal-Ahmed-07/blob/main/README.md)
 <h1 align="center">Hi 👋, this side Talal Ahmed</h1>
 <h3 align="center">An impassioned data analytics expert from Pakistan</h3>
 
